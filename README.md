@@ -12,4 +12,4 @@ I'm currently **learning** the basics to build my own spaces on the web.
   <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" />
 
 ---
-   **Pixel art** Portfolio: [navicattt.github.io](https://navicattt.github.io/NaviCatttCard/)
+   **Pixel art** Portfolio: [navicattt.github.io](https://navicattt.github.io)
