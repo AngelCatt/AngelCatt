@@ -1,9 +1,9 @@
 
-I'm a Pixel Artist and **Aspiring Full Stack Developer**. 👾
+I'm a Pixel Artist and **Aspiring Full Stack Developer**.
 I'm currently **learning** the basics to build my own spaces on the web.
 <div align="center">
 
-### 🛠️ Tech & Tools
+### Tech & Tools
 <p align="center">
   <!-- Core -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
